@@ -18,6 +18,8 @@ namespace YunusB
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             //tst;
+
+            //ths i stest
         }
     }
 }
