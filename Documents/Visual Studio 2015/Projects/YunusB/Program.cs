@@ -18,7 +18,7 @@ namespace YunusB
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             //tst;
-
+            //test
             //ths i stest
         }
     }
